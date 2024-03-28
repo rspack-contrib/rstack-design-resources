@@ -1,13 +1,9 @@
 {
-    "version": "0.2",
-    "ignorePaths": [],
-    "dictionaryDefinitions": [],
-    "dictionaries": [],
-    "words": [
-        "Rsdoctor",
-        "Rsfamily",
-        "Rspress"
-    ],
-    "ignoreWords": [],
-    "import": []
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": ["Rsdoctor", "Rsfamily", "Rspress"],
+  "ignoreWords": [],
+  "import": []
 }
