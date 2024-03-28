@@ -2,6 +2,8 @@
 
 Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
+<img src="https://github.com/rspack-contrib/rsfamily-desgin-resources/assets/7237365/fa9ba86f-b8db-4d27-986e-7b5e2cf0c2f5" />
+
 ## Rspack
 
 - [rspack-logo.svg](./rspack/rspack-logo.svg)
