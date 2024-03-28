@@ -43,3 +43,7 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
 - [project-banners.sketch](./others/project-banners.sketch)
 - [project-og-images.sketch](./others/project-og-images.sketch)
+
+## License
+
+Rsfamily design resources are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
