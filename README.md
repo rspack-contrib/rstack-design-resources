@@ -15,6 +15,7 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 - [rspack-logo.fig](./rspack/rspack-logo.fig)
 - [rspack-logo.sketch](./rspack/rspack-logo.sketch)
 - [rspack-banner.png](./rspack/rspack-banner.png)
+- [rspack-og-image.png](./rspack/rspack-og-image.png)
 
 ## Rsbuild
 
@@ -32,12 +33,14 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 - [rspress-logo-large-with-name.png](./rspress/rspress-logo-large-with-name.png)
 - [rspress-logo-large-yellow-pen.png](./rspress/rspress-logo-large-yellow-pen.png)
 - [rspress-banner.png](./rspress/rspress-banner.png)
+- [rspress-og-image.png](./rspress/rspress-og-image.png)
 
 ## Rsdoctor
 
 - [rsdoctor-logo.png](./rsdoctor/rsdoctor-logo.png)
 - [rsdoctor-logo.ai](./rsdoctor/rsdoctor-logo.ai)
 - [rsdoctor-banner.png](./rsdoctor/rsdoctor-banner.png)
+- [rsdoctor-og-image.png](./rsdoctor/rsdoctor-og-image.png)
 
 ## Others
 
