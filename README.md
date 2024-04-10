@@ -47,6 +47,12 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 - [project-banners.sketch](./others/project-banners.sketch)
 - [project-og-images.sketch](./others/project-og-images.sketch)
 
+## Deploy
+
+The resources are deploy via [Netlify](https://www.netlify.com/).
+
+Domain: https://rsfamily-design-resources.netlify.app
+
 ## License
 
 Rsfamily design resources are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).

@@ -3,7 +3,13 @@
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["Rsdoctor", "Rsfamily", "Rspress"],
+  "words": [
+    "rsbuild",
+    "rsdoctor",
+    "rsfamily",
+    "rspack",
+    "rspress"
+  ],
   "ignoreWords": [],
   "import": []
 }
