@@ -51,7 +51,9 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
 The resources are deploy via [Netlify](https://www.netlify.com/).
 
-Domain: https://rsfamily-design-resources.netlify.app
+Domain: <https://assets.rspack.dev>
+
+For example, the `./rspack/rspack-logo.png` can be accessed via <https://assets.rspack.dev/rspack/rspack-logo.png>.
 
 ## License
 
