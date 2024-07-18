@@ -29,7 +29,7 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 ## Rspress
 
 - [rspress.ai](./rspress/rspress.ai)
-- [rspress-logo-large.png](./rspress/rspress-logo-large.png)
+- [rspress-logo-960x960.png](./rspress/rspress-logo-960x960.png)
 - [rspress-logo-large-with-name.png](./rspress/rspress-logo-large-with-name.png)
 - [rspress-logo-large-yellow-pen.png](./rspress/rspress-logo-large-yellow-pen.png)
 - [rspress-banner.png](./rspress/rspress-banner.png)
