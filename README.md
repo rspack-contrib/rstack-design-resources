@@ -1,8 +1,6 @@
-# Rsfamily Design Resources
+# Rstack Design Resources
 
-Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
-
-<img src="https://github.com/rspack-contrib/rsfamily-desgin-resources/assets/7237365/fa9ba86f-b8db-4d27-986e-7b5e2cf0c2f5" />
+Design resources for Rspack, Rsbuild, Rspress, Rsdoctor and Rslib.
 
 ## Rspack
 
@@ -57,4 +55,4 @@ For example, the `./rspack/rspack-logo.png` can be accessed via <https://assets.
 
 ## License
 
-Rsfamily design resources are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+Rstack design resources are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).

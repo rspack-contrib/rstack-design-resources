@@ -8,7 +8,9 @@
     "rsdoctor",
     "rsfamily",
     "rspack",
-    "rspress"
+    "rspress",
+    "rstack",
+    "rslib"
   ],
   "ignoreWords": [],
   "import": []
