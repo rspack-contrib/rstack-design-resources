@@ -40,6 +40,17 @@ Design resources for Rspack, Rsbuild, Rspress, Rsdoctor and Rslib.
 - [rsdoctor-banner.png](./rsdoctor/rsdoctor-banner.png)
 - [rsdoctor-og-image.png](./rsdoctor/rsdoctor-og-image.png)
 
+## Rslib
+
+- [rslib-logo.png](./rslib/rslib-logo.png)
+- [rslib-logo.ai](./rslib/rslib-logo.ai)
+- [rslib-logo.pdf](./rslib/rslib-logo.pdf)
+- [rslib-logo.jpg](./rslib/rslib-logo.jpg)
+- [rslib-logo.svg](./rslib/rslib-logo.svg)
+- [rslib-logo.sketch](./rslib/rslib-logo.sketch)
+- [rslib-banner.png](./rslib/rslib-banner.png)
+- [rslib-og-image.png](./rslib/rslib-og-image.png)
+
 ## Others
 
 - [project-banners.sketch](./others/project-banners.sketch)
