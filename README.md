@@ -41,9 +41,9 @@ Design resources for Rstack, including Rspack, Rsbuild, Rspress, Rsdoctor, Rslib
 
 The resources are deploy via [Netlify](https://www.netlify.com/).
 
-Domain: <https://assets.rspack.dev>
+Domain: <https://assets.rspack.rs>
 
-For example, the `./rspack/rspack-logo.png` can be accessed via <https://assets.rspack.dev/rspack/rspack-logo.png>.
+For example, the `./rspack/rspack-logo.png` can be accessed via <https://assets.rspack.rs/rspack/rspack-logo.png>.
 
 ## License
 
