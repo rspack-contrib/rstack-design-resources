@@ -32,6 +32,11 @@ Design resources for Rstack, including Rspack, Rsbuild, Rspress, Rsdoctor, Rslib
 - [rstest-logo.svg](./rstest/rstest-logo.svg)
 - see [rstest folder](./rstest) for more.
 
+## Rslint
+
+- [rslint-logo.svg](./rslint/rslint-logo.svg)
+- see [rslint folder](./rslint) for more.
+
 ## Others
 
 - [project-banners.sketch](./others/project-banners.sketch)
