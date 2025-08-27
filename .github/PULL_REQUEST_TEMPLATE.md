@@ -5,4 +5,4 @@
 
 <!--- Check and mark with an "x" -->
 
-- [ ] The image has been minified via https://tinypng.com/
+- [ ] The image has been compressed via https://tinypng.com/
